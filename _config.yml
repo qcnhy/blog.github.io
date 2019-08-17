@@ -5,7 +5,8 @@ header-img: img/post-bg-desk.jpg
 email: qcnhy@qq.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 浅唱博客, 1029374115, qcnhy, 浅唱, 浅唱那回忆"
-url: "http://blog.qcnhy.cn"       # your host, for absolute URL
+url: "https://blog.qcnhy.cn"       # your host, for absolute URL
+enforce_ssl: blog.qcnhy.cn
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qcnhy/qcnhy.github.io.git" # you code repository
 
