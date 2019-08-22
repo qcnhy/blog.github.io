@@ -3,7 +3,7 @@ title: 浅唱博客
 SEOTitle: 浅唱博客
 header-img: img/post-bg-desk.jpg
 email: qcnhy@qq.com
-description: "Every failure is leading towards success."
+description: "在这里与你分享生活"
 keyword: "BY, BY Blog, 浅唱博客, 1029374115, qcnhy, 浅唱, 浅唱那回忆"
 url: "https://blog.qcnhy.cn"       # your host, for absolute URL
 enforce_ssl: blog.qcnhy.cn
@@ -41,7 +41,7 @@ anchorjs: true                          # if you want to customize anchor. check
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
 plugins:
-  - jekyll-sitemap
+#  - jekyll-sitemap
   - jekyll-paginate
 
 
