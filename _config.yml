@@ -69,8 +69,9 @@ gitalk:
   clientSecret: 7a477b20ac33f82201c3094d60139cdcd1979228    #生成的clientSecret
   repo: qcnhy.github.io    #仓库名称
   owner: qcnhy    #github用户名
-  admin: qcnhy
+  admin: qcnhy     
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  createIssueManually: true #打开页面自动初始化
 
 
 # 统计
