@@ -302,6 +302,7 @@
     Array.prototype.forEach.call(cmtBtns, item => {
 
       item.click();
+	  console.log('点击按钮')
 
       isClicked = true;
 
@@ -309,7 +310,7 @@
 
         clearInterval(timer);
 
-        console.log('Clear timer.')
+        console.log('停止')
 
       }        
 
