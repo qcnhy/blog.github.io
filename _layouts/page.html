@@ -163,6 +163,26 @@ layout: default
                                 </a>
                             </li>
                             {% endif %}
+                            {% if site.weixin_username %}
+                            <li>
+                                <a target="_blank" href="{{ site.weixin_username }}">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fa fa-circle fa-stack-2x"></i>
+                                        <i class="fa fa-weixin fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            {% endif %}
+                            {% if site.qq_username %}
+                            <li>
+                                <a target="_blank" href="{{ site.qq_username }}">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fa fa-circle fa-stack-2x"></i>
+                                        <i class="fa fa-qq fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            {% endif %}
                             {% if site.facebook_username %}
                             <li>
                                 <a target="_blank" href="https://www.facebook.com/{{ site.facebook_username }}">
