@@ -1,7 +1,9 @@
 # Site settings
 title: 浅唱博客
 SEOTitle: 浅唱博客
-header-img: img/post-bg-desk.jpg
+#
+header-img: img/post-bg-desk.webp
+header-imgby: img/post-bg-desk.jpg
 email: qcnhy@qq.com
 description: "在这里与你分享生活"
 keyword: "浅唱博客, 1029374115, qcnhy, 浅唱, 浅唱那回忆"
