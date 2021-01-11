@@ -14,7 +14,7 @@ github_repo: "https://github.com/qcnhy/qcnhy.github.io.git" # you code repositor
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "在这里与你分享生活"
+sidebar-about-description: "资源均来源于网络，如有侵权请联系删除！"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -24,9 +24,9 @@ RSS: true
 weibo_username:     7217245803
 # zhihu_username:     qiubaiying
 github_username:    qcnhy
-facebook_username:  qcnhy
+#facebook_username:  qcnhy
 # jianshu_username:   e71990ada2fd
-twitter_username:   qcnhya
+#twitter_username:   qcnhya
 qq_username:   http://qm.qq.com/cgi-bin/qm/qr?k=wRTcToRykeR750KwTGf04_P8ClePYMJ0
 weixin_username:   https://u.wechat.com/MJv4rmQDJgbSYXsEYj_KfuU
 
