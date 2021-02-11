@@ -122,7 +122,7 @@
 					<br>
 					ICP备案号：<a href="http://beian.miit.gov.cn/publish/query/indexFirst.action" >闽ICP备20006044号-1</a> 
 					<br>
-					公安备案号： <img src="/img/anbei.png"></img>闽公网安备35060202000251
+					公安备案号： <img src="{{ site.cdnurl }}/img/anbei.png"></img>闽公网安备35060202000251
 					<br>
 					<a href="/sitemap.xml">站点地图</a>
                 </p>
@@ -145,21 +145,21 @@
     <input type="text" class="form-control cb-search-content" id="cb-search-content" style="position: fixed; top: 60px" placeholder="文章标题 日期 标签" >
 
     <div style="position: fixed; top: 16px; right: 16px;">
-        <img src="/search/img/cb-close.png"  id="cb-close-btn"/>
+        <img src="{{ site.cdnurl }}/search/img/cb-close.png"  id="cb-close-btn"/>
     </div>
 </div>
 
 <div style="position: fixed; right: 16px; bottom: 20px;">
-    <img src="/search/img/cb-search.png"  id="cb-search-btn"  title="双击ctrl试一下"/>
+    <img src="{{ site.cdnurl }}/search/img/cb-search.png"  id="cb-search-btn"  title="双击ctrl试一下"/>
 </div>
 
-<link rel="stylesheet" href="{{ "/search/css/cb-search.css" | prepend: site.baseurl }}">
+<link rel="stylesheet" href="{{ "/search/css/cb-search.css" | prepend: site.cdnurl }}">
 
-<script src="{{ "/search/js/bootstrap3-typeahead.min.js" | prepend: site.baseurl }}"></script>
-<script src="{{ "/search/js/cb-search.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/search/js/bootstrap3-typeahead.min.js" | prepend: site.cdnurl }}"></script>
+<script src="{{ "/search/js/cb-search.js" | prepend: site.cdnurl }}"></script>
 
 <!-- Custom Theme JavaScript -->
-<script src="{{ "/js/hux-blog.min.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/hux-blog.min.js " | prepend: site.cdnurl }}"></script>
 
 <!-- Service Worker -->
 {% if site.service-worker %}
