@@ -2,8 +2,8 @@
 title: 浅唱博客
 SEOTitle: 浅唱博客
 #
-header-img: img/post-bg-desk.webp
-header-imgby: img/post-bg-desk.jpg
+header-img: https://cdn.jsdelivr.net/gh/qcnhy/blog.github.io/img/post-bg-desk.webp
+header-imgby: https://cdn.jsdelivr.net/gh/qcnhy/blog.github.io/img/post-bg-desk.jpg
 email: qcnhy@qq.com
 description: "在这里与你分享生活"
 keyword: "浅唱博客, 1029374115, qcnhy, 浅唱, 浅唱那回忆"
@@ -15,7 +15,7 @@ github_repo: "https://github.com/qcnhy/qcnhy.github.io.git" # you code repositor
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "免责声明：<br>浅唱博客所发布的一切补丁、注册机和注册信息及软件的解密分析文章仅限用于学习和研究目的；任何人不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。本站信息来自网络，版权争议与本站无关。您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。如有侵权请邮件与我们联系处理。"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://cdn.jsdelivr.net/gh/qcnhy/blog.github.io/img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -69,6 +69,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 1efeaf1a76e238f70f6e                            #生成的clientID
   clientSecret: 7a477b20ac33f82201c3094d60139cdcd1979228    #生成的clientSecret
+  accessToken: 43a6926afa81288f1df3473f8312e5d9af362334 # 非常重要
   repo: qcnhy.github.io    #仓库名称
   owner: qcnhy    #github用户名
   admin: qcnhy     
