@@ -2,14 +2,14 @@
 title: 浅唱博客
 SEOTitle: 浅唱博客
 #
-header-img: https://cdn.jsdelivr.net/gh/qcnhy/blog.github.io/img/post-bg-desk.webp
-header-imgby: https://cdn.jsdelivr.net/gh/qcnhy/blog.github.io/img/post-bg-desk.jpg
+header-img: img/post-bg-desk.webp
+header-imgby: img/post-bg-desk.jpg
 email: qcnhy@qq.com
 description: "在这里与你分享生活"
 keyword: "浅唱博客, 1029374115, qcnhy, 浅唱, 浅唱那回忆"
 url: "https://blog.qcnhy.cn"       # your host, for absolute URL
 enforce_ssl: blog.qcnhy.cn
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "https://cdn.jsdelivr.net/gh/qcnhy/blog.github.io"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qcnhy/qcnhy.github.io.git" # you code repository
 
 # Sidebar settings
