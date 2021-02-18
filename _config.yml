@@ -4,7 +4,7 @@ SEOTitle: 浅唱博客
 #
 header-img: img/post-bg-desk.webp
 header-imgby: img/post-bg-desk.jpg
-email: qcnhy@qq.com
+email: blog@qcnhy.cn
 description: "在这里与你分享生活"
 keyword: "浅唱博客, 1029374115, qcnhy, 浅唱, 浅唱那回忆"
 url: "https://blog.qcnhy.cn"       # your host, for absolute URL
@@ -28,8 +28,8 @@ github_username:    qcnhy
 #facebook_username:  qcnhy
 # jianshu_username:   e71990ada2fd
 #twitter_username:   qcnhya
-qq_username:   http://qm.qq.com/cgi-bin/qm/qr?k=wRTcToRykeR750KwTGf04_P8ClePYMJ0
-weixin_username:   https://u.wechat.com/MJv4rmQDJgbSYXsEYj_KfuU
+#qq_username:   http://qm.qq.com/cgi-bin/qm/qr?k=wRTcToRykeR750KwTGf04_P8ClePYMJ0
+#weixin_username:   https://u.wechat.com/MJv4rmQDJgbSYXsEYj_KfuU
 
 
 # Build settings
