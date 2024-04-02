@@ -107,12 +107,6 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "浅唱云任务",
-        href: "http://mz.qcnhy.cn"
-    },{
-        title: "浅唱发卡网",
-        href: "https://fk.qcnhy.cn"
-    },{
         title: "漳三吐槽墙",
         href: "http://tc.qcnhy.cn/"
     }
