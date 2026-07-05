@@ -111,7 +111,7 @@
                     {% endif %}
                 </ul>
                 <p class="copyright text-muted">
-                    版权所有 &copy; {{ site.title }} {{ site.time | date: '%Y' }}
+                    版权所有 &copy; {{ site.title }} {{ site.time | date: '%Y' }} | <a href="/sitemap.xml">站点地图</a>
                     <br>
                     主题来自 <a href="{{ site.github_repo }}">GitHub</a> |
                     <iframe
@@ -123,8 +123,6 @@
 					ICP备案号：<a href="http://beian.miit.gov.cn/publish/query/indexFirst.action" >闽ICP备20006044号-1</a> 
 					<br>
 					公安备案号： <img src="{{ site.cdnurl }}/img/anbei.png"></img>闽公网安备35060202000251
-					<br>
-					<a href="/sitemap.xml">站点地图</a>
                 </p>
             </div>
         </div>
@@ -134,10 +132,9 @@
 </footer>
 
 <!-- jQuery -->
-<script src="{{ "/js/jquery.min.js " | prepend: site.cdnurl }}"></script>
-<script src="{{ "/js/jquery-2.1.3.min.js " | prepend: site.cdnurl }}"></script>
+<script src="{{ "/js/jquery.min.js" | prepend: site.cdnurl }}"></script>
 <!-- Bootstrap Core JavaScript -->
-<script src="{{ "/js/bootstrap.min.js " | prepend: site.cdnurl }}"></script>
+<script src="{{ "/js/bootstrap.min.js" | prepend: site.cdnurl }}"></script>
 
 <!-- 搜索功能 -->
 <div class="cb-search-tool" style="position: fixed; top: 0px ; bottom: 0px; left: 0px; right:  0px;

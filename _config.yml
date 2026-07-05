@@ -105,11 +105,9 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "漳三吐槽墙",
-        href: "http://tc.qcnhy.cn/"
-    }
-]
+# 友链区域已隐藏（漳三吐槽墙已关闭）；如需恢复，取消下方注释
+# friends: [
+#     { title: "漳三吐槽墙", href: "http://tc.qcnhy.cn/" }
+# ]
 
 
